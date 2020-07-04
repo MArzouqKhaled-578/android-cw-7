@@ -1,4 +1,4 @@
-package com.example.cw6;
+package com.example.hw;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +10,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-cw6 marzou  = new cw6("marzouq","ahmad","hourse","7.8",);
     }
 }
